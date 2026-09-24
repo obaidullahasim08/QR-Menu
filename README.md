@@ -65,18 +65,6 @@ Change these and the whole page updates.
 
 The logo is embedded in the `<img id="logo">` tag as a small base64 image, and is also used as the browser tab and home-screen icon. To replace it, swap that `src` for your own image (a transparent PNG or SVG works best).
 
-## Deploy
-
-### GitHub Pages (free)
-
-1. Push this repository to GitHub with `index.html` at the root.
-2. Go to **Settings > Pages**.
-3. Under **Build and deployment**, choose **Deploy from a branch**, select `main` and `/ (root)`, then **Save**.
-4. After a minute the site is live at `https://<your-username>.github.io/<repo-name>/`.
-
-### Netlify Drop (free, no account setup needed to try)
-
-Drag the project folder onto [app.netlify.com/drop](https://app.netlify.com/drop).
 
 ## Make the QR code
 
